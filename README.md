@@ -1,5 +1,7 @@
 # Very simple EasyOCR test
 
+Using [EasyOCR](https://github.com/JaidedAI/EasyOCR) for Text localizing and recognizing
+
 ## Installation
 
 ```
